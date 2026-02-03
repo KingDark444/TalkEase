@@ -1,0 +1,132 @@
+body {
+  font-family: 'Robata',serif;
+  margin: 0;
+  padding: 0;
+  background-color: #eeffea;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  color: #000; 
+}
+
+#app {
+  background-color: #fff;
+  padding: 20px;
+  border-radius: 10px;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.5); /* Subtle shadow */
+  width: 400px;
+  text-align: center;
+}
+
+.hidden {
+  display: none;
+}
+
+button {
+  display: block;
+  width: 100%;
+  padding: 10px;
+  margin: 10px 0;
+  border: none;
+  border-radius: 5px;
+  background-color: #bfffb7; 
+  color: #000000;
+  font-weight: bold;
+  cursor: pointer;
+  transition: background-color 0.2s ease; /* Hover effect */
+
+}
+
+button:hover {
+  background-color: #bebebe;
+}
+
+.auth-options,
+.category-options {
+  margin-bottom: 20px;
+}
+
+.auth-form input,
+.category-options button {
+  display: block;
+  width: 90%;
+  padding: 10px;
+  margin: 10px 0;
+  border-radius: 5px;
+  border: 1px solid #ccc;
+}
+
+h1,
+h2 {
+  font-family: Open Sans, sans-serif; /* Heading font */
+  margin-bottom: 10px;
+  text-shadow: 2px 2px 5px #bfffb7;
+}
+
+#sentence {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
+  margin: 20px 0;
+}
+
+#sentence img {
+  width: 100px; 
+  height: 100px;
+  border-radius: 5px;
+  cursor: pointer;
+  border: 1px solid #ddd; /* Light border */
+}
+.image-small {
+    width: 50px;
+    height: 50px;
+}
+
+.image-medium {
+    width: 100px;
+    height: 100px;
+}
+
+.image-large {
+    width: 100px;
+    height: 100px;
+}
+ 
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+    margin: 20px 0;
+
+#picture-list {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+    margin: 20px 0;
+}
+
+#picture-list img {
+    width: 150px;
+    height: 100px;
+    border: 1px solid #fff;
+    border-radius: 5px;
+    cursor: pointer;
+}
+/* Grid layout for category options */
+.category-options {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(150px, 1fr)); /* Adjust column width as needed */
+  gap: 5px;
+}
+
+.category-options button {
+  background-color: #bfffb7; 
+  color: #000000; 
+}
+
+/* Responsive grid layout for smaller screens (optional) */
+@media (max-width: 768px) {
+  .category-options {
+    grid-template-columns: 1fr; /* Single column for smaller screens */
+  }
+}
